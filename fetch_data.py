@@ -3,11 +3,9 @@ import requests
 import json
 import os
 
-# Your GitHub username
 GITHUB_USERNAME = "Gargi016"
 
-# Your Personal Access Token. For automation, we'll store this securely.
-# For local testing, you can paste it here or set it as an environment variable.
+
 GITHUB_TOKEN = os.getenv("PAT_TOKEN", "abc")
 
 headers = {
