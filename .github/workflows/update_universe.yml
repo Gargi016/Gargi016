@@ -1,0 +1,38 @@
+name: Update Contribution Universe
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch contribution data
+        run: python fetch_data.py
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+
+      - name: Generate universe SVG
+        run: python generate_image.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add universe.svg contributions.json
+          git commit -m "chore:  update contribution universe" || exit 0
+          git push
