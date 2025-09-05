@@ -51,7 +51,9 @@ When I'm not in front of a screen, you can find me:
   <a href="https://github.garden/Gargi016">
     </a>
 </div>
-
+<p align="center">
+  <img src="universe.svg" alt="My Contribution Universe"/>
+</p>
 ### 📫 Let's Connect!
 
 <p align="center">
