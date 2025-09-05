@@ -44,6 +44,13 @@ When I'm not in front of a screen, you can find me:
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gargi016&theme=tokyo-night&hide_border=true&hide_title=true" alt="Contribution Graph"/>
+</p>
+<div align="center">
+  <a href="https://github.garden/Gargi016">
+    </a>
+</div>
 
 ### 📫 Let's Connect!
 
