@@ -52,10 +52,11 @@ When I'm not in front of a screen, you can find me:
     </a>
 </div>
 <p align="center">
-  <img src="<p align="center">
+  
   <img src="https://gargi016.github.io/Gargi016/universe.svg" alt="My Contribution Universe"/>
+
 </p>
-</p>
+---
 ### 📫 Let's Connect!
 
 <p align="center">
