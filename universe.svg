@@ -3,12 +3,12 @@
   <defs>
         <radialGradient id="gradg188" cx="50%" cy="50%" r="50%">
           <stop offset="0%" style="stop-color:white; stop-opacity:0.85" />
-          <stop offset="100%" style="stop-color:#3FB950; stop-opacity:0" />
+          <stop offset="100%" style="stop-color:#F78166; stop-opacity:0" />
         </radialGradient>
         
         <radialGradient id="gradg298" cx="50%" cy="50%" r="50%">
           <stop offset="0%" style="stop-color:white; stop-opacity:0.75" />
-          <stop offset="100%" style="stop-color:#3FB950; stop-opacity:0" />
+          <stop offset="100%" style="stop-color:#58A6FF; stop-opacity:0" />
         </radialGradient>
         
         <radialGradient id="gradg299" cx="50%" cy="50%" r="50%">
@@ -23,7 +23,7 @@
         
         <radialGradient id="gradg303" cx="50%" cy="50%" r="50%">
           <stop offset="0%" style="stop-color:white; stop-opacity:1.00" />
-          <stop offset="100%" style="stop-color:#A371F7; stop-opacity:0" />
+          <stop offset="100%" style="stop-color:#58A6FF; stop-opacity:0" />
         </radialGradient>
         
         <radialGradient id="gradg304" cx="50%" cy="50%" r="50%">
@@ -33,17 +33,17 @@
         
         <radialGradient id="gradg311" cx="50%" cy="50%" r="50%">
           <stop offset="0%" style="stop-color:white; stop-opacity:0.70" />
-          <stop offset="100%" style="stop-color:#A371F7; stop-opacity:0" />
+          <stop offset="100%" style="stop-color:#F78166; stop-opacity:0" />
         </radialGradient>
         
         <radialGradient id="gradg318" cx="50%" cy="50%" r="50%">
           <stop offset="0%" style="stop-color:white; stop-opacity:0.85" />
-          <stop offset="100%" style="stop-color:#58A6FF; stop-opacity:0" />
+          <stop offset="100%" style="stop-color:#3FB950; stop-opacity:0" />
         </radialGradient>
         
         <radialGradient id="gradg326" cx="50%" cy="50%" r="50%">
           <stop offset="0%" style="stop-color:white; stop-opacity:0.80" />
-          <stop offset="100%" style="stop-color:#F78166; stop-opacity:0" />
+          <stop offset="100%" style="stop-color:#58A6FF; stop-opacity:0" />
         </radialGradient>
         
         <radialGradient id="gradg327" cx="50%" cy="50%" r="50%">
@@ -58,33 +58,33 @@
         
         <radialGradient id="gradg329" cx="50%" cy="50%" r="50%">
           <stop offset="0%" style="stop-color:white; stop-opacity:1.00" />
-          <stop offset="100%" style="stop-color:#A371F7; stop-opacity:0" />
+          <stop offset="100%" style="stop-color:#58A6FF; stop-opacity:0" />
         </radialGradient>
         
         <radialGradient id="gradg332" cx="50%" cy="50%" r="50%">
           <stop offset="0%" style="stop-color:white; stop-opacity:1.00" />
-          <stop offset="100%" style="stop-color:#58A6FF; stop-opacity:0" />
+          <stop offset="100%" style="stop-color:#A371F7; stop-opacity:0" />
         </radialGradient>
         
         <radialGradient id="gradg335" cx="50%" cy="50%" r="50%">
           <stop offset="0%" style="stop-color:white; stop-opacity:1.00" />
-          <stop offset="100%" style="stop-color:#3FB950; stop-opacity:0" />
+          <stop offset="100%" style="stop-color:#A371F7; stop-opacity:0" />
         </radialGradient>
         
         <radialGradient id="gradg336" cx="50%" cy="50%" r="50%">
           <stop offset="0%" style="stop-color:white; stop-opacity:1.00" />
-          <stop offset="100%" style="stop-color:#F78166; stop-opacity:0" />
+          <stop offset="100%" style="stop-color:#3FB950; stop-opacity:0" />
         </radialGradient>
         
         <radialGradient id="gradg338" cx="50%" cy="50%" r="50%">
           <stop offset="0%" style="stop-color:white; stop-opacity:0.65" />
-          <stop offset="100%" style="stop-color:#58A6FF; stop-opacity:0" />
+          <stop offset="100%" style="stop-color:#3FB950; stop-opacity:0" />
         </radialGradient>
         
         <radialGradient id="gradg342" cx="50%" cy="50%" r="50%">
           <stop offset="0%" style="stop-color:white; stop-opacity:1.00" />
-          <stop offset="100%" style="stop-color:#3FB950; stop-opacity:0" />
+          <stop offset="100%" style="stop-color:#F78166; stop-opacity:0" />
         </radialGradient>
         </defs>
-  <rect width="800" height="400" fill="#0D1117"/><circle cx="405.84" cy="275.63" r="30.75" fill="url(#gradg188)"/><circle cx="619.89" cy="174.74" r="28.32" fill="url(#gradg298)"/><circle cx="621.84" cy="319.50" r="29.66" fill="url(#gradg299)"/><circle cx="627.68" cy="309.56" r="34.39" fill="url(#gradg302)"/><circle cx="629.62" cy="137.74" r="42.97" fill="url(#gradg303)"/><circle cx="631.57" cy="106.83" r="29.66" fill="url(#gradg304)"/><circle cx="645.19" cy="122.80" r="26.59" fill="url(#gradg311)"/><circle cx="658.81" cy="121.24" r="30.75" fill="url(#gradg318)"/><circle cx="674.38" cy="294.94" r="29.66" fill="url(#gradg326)"/><circle cx="676.32" cy="257.29" r="33.82" fill="url(#gradg327)"/><circle cx="678.27" cy="238.36" r="37.67" fill="url(#gradg328)"/><circle cx="680.22" cy="146.47" r="36.64" fill="url(#gradg329)"/><circle cx="686.05" cy="96.57" r="34.91" fill="url(#gradg332)"/><circle cx="691.89" cy="85.34" r="39.31" fill="url(#gradg335)"/><circle cx="693.84" cy="150.20" r="42.28" fill="url(#gradg336)"/><circle cx="697.73" cy="96.85" r="24.16" fill="url(#gradg338)"/><circle cx="705.51" cy="186.05" r="34.91" fill="url(#gradg342)"/>
+  <rect width="800" height="400" fill="#0D1117"/><circle cx="405.84" cy="142.49" r="30.75" fill="url(#gradg188)"/><circle cx="619.89" cy="178.06" r="28.32" fill="url(#gradg298)"/><circle cx="621.84" cy="246.57" r="29.66" fill="url(#gradg299)"/><circle cx="627.68" cy="94.21" r="34.39" fill="url(#gradg302)"/><circle cx="629.62" cy="156.51" r="42.97" fill="url(#gradg303)"/><circle cx="631.57" cy="300.62" r="29.66" fill="url(#gradg304)"/><circle cx="645.19" cy="84.01" r="26.59" fill="url(#gradg311)"/><circle cx="658.81" cy="317.97" r="30.75" fill="url(#gradg318)"/><circle cx="674.38" cy="194.03" r="29.66" fill="url(#gradg326)"/><circle cx="676.32" cy="106.65" r="33.82" fill="url(#gradg327)"/><circle cx="678.27" cy="165.35" r="37.67" fill="url(#gradg328)"/><circle cx="680.22" cy="111.01" r="36.64" fill="url(#gradg329)"/><circle cx="686.05" cy="294.10" r="34.91" fill="url(#gradg332)"/><circle cx="691.89" cy="112.51" r="39.31" fill="url(#gradg335)"/><circle cx="693.84" cy="316.30" r="42.28" fill="url(#gradg336)"/><circle cx="697.73" cy="184.17" r="24.16" fill="url(#gradg338)"/><circle cx="705.51" cy="291.22" r="34.91" fill="url(#gradg342)"/>
 </svg>
