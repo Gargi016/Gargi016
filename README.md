@@ -56,6 +56,7 @@ When I'm not in front of a screen, you can find me:
   <img src="https://gargi016.github.io/Gargi016/universe.svg" alt="My Contribution Universe"/>
 
 </p>
+
 ---
 
 ### 📫 Let's Connect!
