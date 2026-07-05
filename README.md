@@ -57,6 +57,7 @@ When I'm not in front of a screen, you can find me:
 
 </p>
 ---
+
 ### 📫 Let's Connect!
 
 <p align="center">
