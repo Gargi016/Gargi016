@@ -39,8 +39,8 @@ When I'm not in front of a screen, you can find me:
 ### 📈 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gargi016&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Gargi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gargi016&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Gargi016&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Gargi's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Gargi016&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
