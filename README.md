@@ -61,7 +61,7 @@ I'm a B.Tech student building at the intersection of machine learning and full-s
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Gargi016/Cloud-Evolution-Visualizer" target="_blank">
-        <img src="https://raw.githubusercontent.com/Gargi016/Cloud-Evolution-Visualizer/main/assets/cloud-visualizer-banner.png" alt="Cloud Evolution Visualizer Banner" width="100%">
+        <img src="https://raw.githubusercontent.com/Gargi016/Cloud-Evolution-Visualizer/main/assets/Gemini_Generated_Image_m8c1b6m8c1b6m8c1.png" alt="Cloud Evolution Visualizer Banner" width="100%">
       </a>
     </td>
   </tr>
