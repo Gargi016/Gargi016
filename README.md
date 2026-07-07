@@ -159,8 +159,8 @@ I'm a B.Tech student building at the intersection of machine learning and full-s
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gargi016&theme=tokyo-night&hide_border=true&hide_title=true" alt="Contribution Graph"/>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://gargi016.github.io/Gargi016/universe.svg" alt="My Contribution Universe"/>
 </p>
-
+-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=e63950&height=100&section=footer" width="100%"/>
