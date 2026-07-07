@@ -163,9 +163,9 @@ I'm a B.Tech student building at the intersection of machine learning and full-s
   <img src="https://gargi016.github.io/Gargi016/universe.svg" alt="My Contribution Universe"/>
 </p>
 -->
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gargi016/Gargi016/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gargi016/Gargi016/output/pacman-contribution-graph.svg">
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Gargi016/Gargi016/output/pacman-contribution-graph.svg">
-</picture>
+</picture>-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=e63950&height=100&section=footer" width="100%"/>
