@@ -18,6 +18,12 @@
 
 ### 👩‍💻 About Me
 
+
+<p align="center">
+  <br>
+  <img src="https://github.com/Gargi016/Gargi016/blob/main/gargi_cyber_panda.gif?raw=true" width="135" alt="Cyber Red Panda Coding" />
+</p>
+
 I'm a B.Tech student building at the intersection of machine learning and full-stack web development — turning research ideas into complete, deployed applications with real interfaces, not just notebooks.
 
 * **🔭 Current Focus:** Scaling distributed ML systems and deploying multi-user intelligent applications.
