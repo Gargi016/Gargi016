@@ -53,6 +53,25 @@ I'm a B.Tech student building at the intersection of machine learning and full-s
       </a>
     </td>
   </tr>
+ 
+  <tr>
+    <td width="50%" valign="top">
+      <h3>😀 EmoCodec</h3>
+      <p>A real-time chat app exploring how much meaning survives when language is compressed into a fixed emoji budget. Uses Maximal Marginal Relevance to pick diverse, relevant emojis and reports a measured semantic-retention score for every message, alongside an independent AES-256-GCM encrypted layer for exact message recovery — all wrapped in a live multi-user chat with accounts and real-time delivery.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Flask--SocketIO-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask-SocketIO">
+        <img src="https://img.shields.io/badge/Sentence--Transformers-FF6F00?style=flat-square" alt="Sentence Transformers">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+      </p>
+      <a href="https://github.com/Gargi016/EmoCodec"><strong>View Repository</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Gargi016/EmoCodec" target="_blank">
+        <img src="https://raw.githubusercontent.com/Gargi016/EmoCodec/main/assets/banner.png" alt="EmoCodec Banner" width="100%">
+      </a>
+    </td>
+  </tr>
 
   <tr>
     <td width="50%" valign="top">
@@ -92,24 +111,7 @@ I'm a B.Tech student building at the intersection of machine learning and full-s
     </td>
   </tr>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>😀 EmoCodec</h3>
-      <p>A real-time chat app exploring how much meaning survives when language is compressed into a fixed emoji budget. Uses Maximal Marginal Relevance to pick diverse, relevant emojis and reports a measured semantic-retention score for every message, alongside an independent AES-256-GCM encrypted layer for exact message recovery — all wrapped in a live multi-user chat with accounts and real-time delivery.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Flask--SocketIO-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask-SocketIO">
-        <img src="https://img.shields.io/badge/Sentence--Transformers-FF6F00?style=flat-square" alt="Sentence Transformers">
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-      </p>
-      <a href="https://github.com/Gargi016/EmoCodec"><strong>View Repository</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Gargi016/EmoCodec" target="_blank">
-        <img src="https://raw.githubusercontent.com/Gargi016/EmoCodec/main/assets/banner.png" alt="EmoCodec Banner" width="100%">
-      </a>
-    </td>
-  </tr>
+ 
 </table>
 
 ---
