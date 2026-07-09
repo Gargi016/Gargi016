@@ -36,6 +36,26 @@ I'm a B.Tech student building at the intersection of machine learning and full-s
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🐱 SymboLynx</h3>
+      <p>A neuro-symbolic conversational system that decouples natural language constraint extraction from mathematical logic verification. Translates complex plain-English scheduling, budgeting, or provisioning rules into a typed expression AST, compiles them into formal terms, and runs them against the Z3 SMT solver. Features automated deletion-based subset-minimal core shrinking, optimization-driven repairs verified by re-solving from zero, an immutable SQLite audit trail, and an interactive Next.js conflict graph UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Z3__Solver-FF0000?style=flat-square&logo=processor&logoColor=white" alt="Z3 Solver">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+      </p>
+      <a href="https://github.com/Gargi016/SymboLynx"><strong>View Repository</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Gargi016/SymboLynx" target="_blank">
+        <img src="https://raw.githubusercontent.com/Gargi016/SymboLynx/main/assets/banner1.png" alt="SymboLynx Banner" width="100%">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
       <h3>🌫️ AI-Powered AQI Prediction</h3>
       <p>An end-to-end data science app that forecasts Air Quality Index using the Prophet time-series model, fed by real-time data from the WAQI API. Features an interactive Leaflet.js map (click anywhere for an instant AQI reading), a day/night-adaptive UI, and animated pollutant gauges backed by a Flask API.</p>
       <p>
@@ -90,28 +110,7 @@ I'm a B.Tech student building at the intersection of machine learning and full-s
       </a>
     </td>
   </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💊 InteractionNet</h3>
-      <p>An AI-powered prototype predicting drug-drug interactions from molecular fingerprints using a RandomForestClassifier, built for the IIC Hackathon. Includes an interactive 3D molecule viewer, async "Analyzing..." feedback, and color-coded risk predictions on a Flask backend. Built with a 4-person team.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-        <img src="https://img.shields.io/badge/RDKit-blueviolet?style=flat-square" alt="RDKit">
-        <img src="https://img.shields.io/badge/3Dmol.js-orange?style=flat-square" alt="3Dmol.js">
-      </p>
-      <a href="https://github.com/Gargi016/InteractionNet"><strong>View Repository</strong></a> &bull; <a href="https://interactionnet-cmmj.onrender.com" target="_blank"><strong>View Live Deployment &rarr;</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://interactionnet-cmmj.onrender.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/Gargi016/InteractionNet/main/docs/interactionnet%20poster.jpeg" alt="InteractionNet Banner" width="100%">
-      </a>
-    </td>
-  </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack & Systems Architecture
