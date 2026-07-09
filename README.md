@@ -68,7 +68,7 @@ I'm a B.Tech student building at the intersection of machine learning and full-s
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Gargi016/EmoCodec" target="_blank">
-        <img src="https://raw.githubusercontent.com/Gargi016/EmoCodec/main/assets/banner.png" alt="EmoCodec Banner" width="100%">
+        <img src="https://raw.githubusercontent.com/Gargi016/EmoCodec/main/assets/B1.png" alt="EmoCodec Banner" width="100%">
       </a>
     </td>
   </tr>
